@@ -1,5 +1,5 @@
-Flask==2.0.3
-Flask-SQLAlchemy==2.5.1
-Flask-WTF==1.0.0
-WTForms==3.0.0
-Gunicorn==20.1.0
+Flask
+Flask-SQLAlchemy
+Flask-WTF
+WTForms
+Gunicorn
